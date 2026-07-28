@@ -1,0 +1,35 @@
+name: Validate skills
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Validate every skill against the Agent Skills spec
+        run: |
+          set -u
+          fail=0
+          count=0
+          for dir in skills/*/*/; do
+            count=$((count + 1))
+            if npx --yes skills-ref validate "$dir"; then
+              echo "ok: $dir"
+            else
+              echo "FAIL: $dir"
+              fail=1
+            fi
+          done
+          echo "validated $count skills"
+          if [ "$count" -ne 30 ]; then
+            echo "expected 30 skills, found $count"
+            fail=1
+          fi
+          exit $fail

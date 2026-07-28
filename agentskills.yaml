@@ -1,0 +1,128 @@
+# Index of the skills in this repository.
+# Per-skill format: https://agentskills.io/specification (each skills/<category>/<name>/SKILL.md).
+name: pocket-agent-starter-skills
+description: "30 agent skills for business owners (voice, email, sales, research, operations, decisions) in the open Agent Skills format. Extracted from the Pocket Agent Starter Pack."
+homepage: https://aipocketagent.com
+repository: https://github.com/cwhited26/pocket-agent-starter-skills
+license: MIT
+skills:
+  - name: dont-be-a-chatbot
+    path: skills/voice/dont-be-a-chatbot
+    category: voice
+    description: "Cut the assistant filler — \"I'd be happy to,\" \"let me know if there's anything else,\" \"great question\" — that marks writing as machine-made. Everything customer-facing, and most internal writing too. The owner is a person talking to a person."
+  - name: honest-hedging
+    path: skills/voice/honest-hedging
+    category: voice
+    description: "Drop the hedge stacks — \"probably,\" \"likely,\" \"might want to consider,\" \"could potentially.\" Commit to the call or say plainly what you don't know. Recommendations, follow-ups, decisions, anything where the reader wants a position. Especially when you're tempted to soften."
+  - name: lead-with-the-action
+    path: skills/voice/lead-with-the-action
+    category: voice
+    description: "Put the claim, the finding, or the ask in the first sentence — then explain. Never bury the point in the middle. Every draft, every reply, every brief. The longer the piece, the more it matters."
+  - name: specific-over-generic
+    path: skills/voice/specific-over-generic
+    category: voice
+    description: "Name the person, the dollar amount, the date, the file. Replace \"stakeholders,\" \"soon,\" and \"several\" with the real thing. Always. Every claim, every plan, every follow-up. If a real detail exists, use it."
+  - name: write-like-the-user
+    path: skills/voice/write-like-the-user
+    category: voice
+    description: "Pull the owner's voice from their past writing and mirror its cadence and word choices instead of defaulting to generic prose. Any time you draft something the owner will send under their own name — email, post, proposal, reply. Skip it for internal scratch notes nobody reads."
+  - name: boundary-setting-decline
+    path: skills/email/boundary-setting-decline
+    category: email
+    description: "Decline a request — a discount, a deadline, an out-of-scope ask — clearly and warmly, so the relationship survives the no. When the answer has to be no: a price you won't drop, work you don't do, a timeline you can't hit. Anytime softening into a maybe would make it worse."
+  - name: cold-intro-structure
+    path: skills/email/cold-intro-structure
+    category: email
+    description: "Open a cold email on the prospect's pain, show the one thing that's different about you, then make a single small ask. First-touch outreach to someone who doesn't know the owner. Not for warm leads or existing customers — those get a different open."
+  - name: customer-reply-tone-match
+    path: skills/email/customer-reply-tone-match
+    category: email
+    description: "Read the tone of the inbound message — clipped, warm, frustrated, formal — and answer in a register that fits instead of one flat default. Replying to any customer or prospect message. Especially when they're upset or unusually casual — a mismatch reads as tone-deaf."
+  - name: quote-follow-up
+    path: skills/email/quote-follow-up
+    category: email
+    description: "Re-send the value, not just a nudge — restack what they get and add a real reason the window is closing, without fake urgency. A quote or proposal went out and the prospect went quiet. Use after a few days of silence, before they forget the conversation entirely."
+  - name: subject-line-not-filtered
+    path: skills/email/subject-line-not-filtered
+    category: email
+    description: "Write subject lines that are concrete and specific — a real thing the reader would say out loud — not clickbait and not vague. Every email that needs to be opened. Cold outreach, follow-ups, anything competing in a full inbox."
+  - name: discovery-call-note-capture
+    path: skills/sales/discovery-call-note-capture
+    category: sales
+    description: "Log the few things from a discovery call that change the deal — pain, budget signals, decision process, exact words — and skip the transcript. After a sales or discovery call, when turning a messy conversation into notes the owner and the next draft can use."
+  - name: lead-qualification
+    path: skills/sales/lead-qualification
+    category: sales
+    description: "Sort a new lead on fit, pain, budget, and timing so the owner spends time on the ones who'll actually close. A new lead comes in and you need to decide how hard to chase it. Use before booking a long call with someone who may never buy."
+  - name: objection-handling
+    path: skills/sales/objection-handling
+    category: sales
+    description: "Find the actual objection hiding behind the stated one, then address the fear of loss driving it instead of arguing the surface. A prospect pushes back — on price, timing, \"I need to think about it.\" Use before you discount or walk, when there's still a real conversation to have."
+  - name: proposal-drafting-framework
+    path: skills/sales/proposal-drafting-framework
+    category: sales
+    description: "Build a proposal from messy call notes by leading with their problem, scoping the work in their terms, and pricing it as an outcome. After discovery, when the owner needs a proposal or scope of work that actually reflects what the prospect said."
+  - name: stack-the-deck-close
+    path: skills/sales/stack-the-deck-close
+    category: sales
+    description: "Right before the close, line up everything the buyer gets in one stack so the price lands as small against the total — then ask. At the moment of decision — the end of a proposal, the close of a call, the upsell page. When the buyer is about to weigh price against value."
+  - name: competitor-pricing-extract
+    path: skills/research/competitor-pricing-extract
+    category: research
+    description: "Read a competitor's page and extract their real pricing — tiers, what's included, what's hidden — into a clean comparison. Sizing up a competitor, setting the owner's own prices, or arming a sales conversation with what the other guy charges."
+  - name: customer-voice-extract
+    path: skills/research/customer-voice-extract
+    category: research
+    description: "Mine a transcript or review for the lines that sound like a real person, not a paraphrase — the exact words you can use in copy. Building marketing copy, case studies, or messaging from a call recording, a review, or a testimonial. Anytime you need the customer's actual voice."
+  - name: source-verification
+    path: skills/research/source-verification
+    category: research
+    description: "Attach the URL or source to every factual claim in research, and flag anything you couldn't verify instead of stating it as fact. Any research deliverable the owner will act on or repeat. Especially numbers, prices, and competitive claims that could be wrong."
+  - name: tactic-extraction
+    path: skills/research/tactic-extraction
+    category: research
+    description: "Read a long video or podcast transcript and extract the named, specific tactics worth keeping — not the stories and filler around them. Processing a YouTube transcript, a podcast, or a long talk into something useful. When the owner wants the moves, not a book report."
+  - name: vertical-landscape-scan
+    path: skills/research/vertical-landscape-scan
+    category: research
+    description: "Turn a handful of sources into a one-page read on a market or vertical — players, pricing, gaps, and where the opening is. Entering a new vertical, sizing an opportunity, or briefing the owner before a decision about a market they don't know yet."
+  - name: end-of-day-reflection
+    path: skills/operations/end-of-day-reflection
+    category: operations
+    description: "Pull the day's real activity — what shipped, what moved, what's stuck — and hand the owner a short read on what changed. End of the workday, as a routine or on demand. When the owner wants to close the day knowing what actually happened."
+  - name: inbox-triage
+    path: skills/operations/inbox-triage
+    category: operations
+    description: "Sort a full inbox into respond-now, respond-this-week, archive, and delegate — so the owner sees the few things that actually need them. A backed-up inbox, a morning review, or a daily brief. Anytime the volume is hiding the few messages that matter."
+  - name: project-scaffolding
+    path: skills/operations/project-scaffolding
+    category: operations
+    description: "Turn a vague goal into milestones, then milestones into concrete tasks, so a big ask becomes a sequence someone can actually run. The owner names a goal that's too big to act on directly — \"launch the new service,\" \"clean up the books.\" Use before any of it gets dispatched as work."
+  - name: quote-drafting-from-notes
+    path: skills/operations/quote-drafting-from-notes
+    category: operations
+    description: "Turn rough notes — a photo, a voice memo, a few scribbled lines — into a clean, structured quote with scope, line items, and a total. The owner captured a job in the field — a quick note, a photo, a memo — and needs it turned into a quote they can send."
+  - name: vendor-invoice-categorization
+    path: skills/operations/vendor-invoice-categorization
+    category: operations
+    description: "Read a vendor invoice and log it to the right account so the books stay clean and tax time isn't a scramble. A vendor bill or receipt comes in and needs to land in the books under the correct category."
+  - name: devils-advocate-first-pass
+    path: skills/decisions/devils-advocate-first-pass
+    category: decisions
+    description: "Before agreeing with a plan, find its strongest counter-argument and state it — so the owner decides against a real objection, not a yes-man. When the owner proposes something and you're inclined to agree. Especially on big or expensive calls where easy agreement is dangerous."
+  - name: load-bearing-assumption
+    path: skills/decisions/load-bearing-assumption
+    category: decisions
+    description: "Find the one assumption that makes a decision wrong if it's false, and check it before committing. Before a real commitment — a hire, a spend, a direction. When a plan depends on something being true that nobody's actually checked."
+  - name: pre-mortem
+    path: skills/decisions/pre-mortem
+    category: decisions
+    description: "Before committing, assume the plan already failed and write down why — so you fix the likely failures before they happen. Before launching something real — a service, a campaign, a big spend. When the plan feels solid and that confidence needs a stress test."
+  - name: reversibility-check
+    path: skills/decisions/reversibility-check
+    category: decisions
+    description: "Decide how much to deliberate by whether the decision can be undone — move fast on reversible calls, slow down on the one-way doors. Any decision where you're unsure how much time it deserves. The check tells you whether to just decide or to slow down."
+  - name: three-option-framing
+    path: skills/decisions/three-option-framing
+    category: decisions
+    description: "Frame a decision as three real options with their trade-offs, never a single take-it-or-leave-it recommendation. Any time the owner faces a real choice — a vendor, a price, a direction. When you'd otherwise just hand them one answer."
