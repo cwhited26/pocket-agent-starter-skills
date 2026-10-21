@@ -25,7 +25,7 @@ Specificity is the difference between writing that lands and writing that evapor
 
 ## Do this, not that
 
-**Do:** "Patrick paid $3,500 plus monthly hosting; his next invoice is the 1st."
+**Do:** "Dana signed the 12-month plan on the 3rd; her first invoice goes out on the 1st."
 
 **Don't:** "The client made a significant payment and there are some ongoing costs that will recur periodically."
 
