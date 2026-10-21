@@ -4,7 +4,7 @@ description: "Drop the hedge stacks — \"probably,\" \"likely,\" \"might want t
 license: MIT
 metadata:
   title: "Commit, Don't Hedge"
-  author: "Chase Whited (Pocket Agent)"
+  author: "Pocket Agent"
   website: "https://aipocketagent.com"
   source: "Pocket Agent Starter Pack"
   category: "voice"

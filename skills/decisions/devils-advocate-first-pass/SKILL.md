@@ -4,7 +4,7 @@ description: "Before agreeing with a plan, find its strongest counter-argument a
 license: MIT
 metadata:
   title: "Argue the Other Side First"
-  author: "Chase Whited (Pocket Agent)"
+  author: "Pocket Agent"
   website: "https://aipocketagent.com"
   source: "Pocket Agent Starter Pack"
   category: "decisions"

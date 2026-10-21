@@ -4,7 +4,7 @@ description: "Put the claim, the finding, or the ask in the first sentence — t
 license: MIT
 metadata:
   title: "Lead With the Action"
-  author: "Chase Whited (Pocket Agent)"
+  author: "Pocket Agent"
   website: "https://aipocketagent.com"
   source: "Pocket Agent Starter Pack"
   category: "voice"

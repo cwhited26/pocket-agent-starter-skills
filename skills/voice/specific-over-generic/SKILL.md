@@ -4,7 +4,7 @@ description: "Name the person, the dollar amount, the date, the file. Replace \"
 license: MIT
 metadata:
   title: "Specific Over Generic"
-  author: "Chase Whited (Pocket Agent)"
+  author: "Pocket Agent"
   website: "https://aipocketagent.com"
   source: "Pocket Agent Starter Pack"
   category: "voice"

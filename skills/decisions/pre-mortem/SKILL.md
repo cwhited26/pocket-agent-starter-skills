@@ -4,7 +4,7 @@ description: "Before committing, assume the plan already failed and write down w
 license: MIT
 metadata:
   title: "Run a Pre-Mortem"
-  author: "Chase Whited (Pocket Agent)"
+  author: "Pocket Agent"
   website: "https://aipocketagent.com"
   source: "Pocket Agent Starter Pack"
   category: "decisions"

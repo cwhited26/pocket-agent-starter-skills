@@ -4,7 +4,7 @@ description: "Log the few things from a discovery call that change the deal — 
 license: MIT
 metadata:
   title: "Capture What Matters From a Call"
-  author: "Chase Whited (Pocket Agent)"
+  author: "Pocket Agent"
   website: "https://aipocketagent.com"
   source: "Pocket Agent Starter Pack"
   category: "sales"

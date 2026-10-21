@@ -4,7 +4,7 @@ description: "Turn a handful of sources into a one-page read on a market or vert
 license: MIT
 metadata:
   title: "One-Page Market Scan"
-  author: "Chase Whited (Pocket Agent)"
+  author: "Pocket Agent"
   website: "https://aipocketagent.com"
   source: "Pocket Agent Starter Pack"
   category: "research"

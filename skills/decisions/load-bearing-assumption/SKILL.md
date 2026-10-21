@@ -4,7 +4,7 @@ description: "Find the one assumption that makes a decision wrong if it's false,
 license: MIT
 metadata:
   title: "Name the Load-Bearing Assumption"
-  author: "Chase Whited (Pocket Agent)"
+  author: "Pocket Agent"
   website: "https://aipocketagent.com"
   source: "Pocket Agent Starter Pack"
   category: "decisions"

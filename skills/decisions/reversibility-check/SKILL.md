@@ -4,7 +4,7 @@ description: "Decide how much to deliberate by whether the decision can be undon
 license: MIT
 metadata:
   title: "Check Whether It's Reversible"
-  author: "Chase Whited (Pocket Agent)"
+  author: "Pocket Agent"
   website: "https://aipocketagent.com"
   source: "Pocket Agent Starter Pack"
   category: "decisions"

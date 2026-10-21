@@ -4,7 +4,7 @@ description: "Right before the close, line up everything the buyer gets in one s
 license: MIT
 metadata:
   title: "Restack the Value Before the Ask"
-  author: "Chase Whited (Pocket Agent)"
+  author: "Pocket Agent"
   website: "https://aipocketagent.com"
   source: "Pocket Agent Starter Pack"
   category: "sales"

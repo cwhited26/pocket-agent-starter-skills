@@ -4,7 +4,7 @@ description: "Sort a new lead on fit, pain, budget, and timing so the owner spen
 license: MIT
 metadata:
   title: "Qualify a Lead Fast"
-  author: "Chase Whited (Pocket Agent)"
+  author: "Pocket Agent"
   website: "https://aipocketagent.com"
   source: "Pocket Agent Starter Pack"
   category: "sales"

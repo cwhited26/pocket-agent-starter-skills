@@ -4,7 +4,7 @@ description: "Turn a vague goal into milestones, then milestones into concrete t
 license: MIT
 metadata:
   title: "Break a Goal Into Steps"
-  author: "Chase Whited (Pocket Agent)"
+  author: "Pocket Agent"
   website: "https://aipocketagent.com"
   source: "Pocket Agent Starter Pack"
   category: "operations"

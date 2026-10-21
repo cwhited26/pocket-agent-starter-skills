@@ -4,7 +4,7 @@ description: "Decline a request — a discount, a deadline, an out-of-scope ask 
 license: MIT
 metadata:
   title: "Say No Without Burning the Bridge"
-  author: "Chase Whited (Pocket Agent)"
+  author: "Pocket Agent"
   website: "https://aipocketagent.com"
   source: "Pocket Agent Starter Pack"
   category: "email"

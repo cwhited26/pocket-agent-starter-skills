@@ -4,7 +4,7 @@ description: "Find the actual objection hiding behind the stated one, then addre
 license: MIT
 metadata:
   title: "Handle the Real Objection"
-  author: "Chase Whited (Pocket Agent)"
+  author: "Pocket Agent"
   website: "https://aipocketagent.com"
   source: "Pocket Agent Starter Pack"
   category: "sales"

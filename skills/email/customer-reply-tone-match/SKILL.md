@@ -4,7 +4,7 @@ description: "Read the tone of the inbound message — clipped, warm, frustrated
 license: MIT
 metadata:
   title: "Match the Customer's Tone"
-  author: "Chase Whited (Pocket Agent)"
+  author: "Pocket Agent"
   website: "https://aipocketagent.com"
   source: "Pocket Agent Starter Pack"
   category: "email"

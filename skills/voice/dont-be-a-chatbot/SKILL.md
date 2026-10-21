@@ -4,7 +4,7 @@ description: "Cut the assistant filler — \"I'd be happy to,\" \"let me know if
 license: MIT
 metadata:
   title: "Don't Sound Like a Chatbot"
-  author: "Chase Whited (Pocket Agent)"
+  author: "Pocket Agent"
   website: "https://aipocketagent.com"
   source: "Pocket Agent Starter Pack"
   category: "voice"
