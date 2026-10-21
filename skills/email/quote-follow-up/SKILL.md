@@ -4,7 +4,7 @@ description: "Re-send the value, not just a nudge — restack what they get and 
 license: MIT
 metadata:
   title: "Follow Up on a Quote"
-  author: "Chase Whited (Pocket Agent)"
+  author: "Pocket Agent"
   website: "https://aipocketagent.com"
   source: "Pocket Agent Starter Pack"
   category: "email"

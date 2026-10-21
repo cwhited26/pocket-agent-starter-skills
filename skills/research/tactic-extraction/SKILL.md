@@ -4,7 +4,7 @@ description: "Read a long video or podcast transcript and extract the named, spe
 license: MIT
 metadata:
   title: "Pull the Plays, Skip the Fluff"
-  author: "Chase Whited (Pocket Agent)"
+  author: "Pocket Agent"
   website: "https://aipocketagent.com"
   source: "Pocket Agent Starter Pack"
   category: "research"

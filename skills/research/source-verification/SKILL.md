@@ -4,7 +4,7 @@ description: "Attach the URL or source to every factual claim in research, and f
 license: MIT
 metadata:
   title: "Every Claim Points at Its Source"
-  author: "Chase Whited (Pocket Agent)"
+  author: "Pocket Agent"
   website: "https://aipocketagent.com"
   source: "Pocket Agent Starter Pack"
   category: "research"

@@ -4,7 +4,7 @@ description: "Read a competitor's page and extract their real pricing — tiers,
 license: MIT
 metadata:
   title: "Pull a Competitor's Pricing"
-  author: "Chase Whited (Pocket Agent)"
+  author: "Pocket Agent"
   website: "https://aipocketagent.com"
   source: "Pocket Agent Starter Pack"
   category: "research"

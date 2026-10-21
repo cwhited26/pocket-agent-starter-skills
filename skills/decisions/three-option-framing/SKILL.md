@@ -4,7 +4,7 @@ description: "Frame a decision as three real options with their trade-offs, neve
 license: MIT
 metadata:
   title: "Always Three Options"
-  author: "Chase Whited (Pocket Agent)"
+  author: "Pocket Agent"
   website: "https://aipocketagent.com"
   source: "Pocket Agent Starter Pack"
   category: "decisions"

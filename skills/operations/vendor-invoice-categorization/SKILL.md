@@ -4,7 +4,7 @@ description: "Read a vendor invoice and log it to the right account so the books
 license: MIT
 metadata:
   title: "Categorize a Vendor Invoice"
-  author: "Chase Whited (Pocket Agent)"
+  author: "Pocket Agent"
   website: "https://aipocketagent.com"
   source: "Pocket Agent Starter Pack"
   category: "operations"

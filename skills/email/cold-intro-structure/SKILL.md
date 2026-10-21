@@ -4,7 +4,7 @@ description: "Open a cold email on the prospect's pain, show the one thing that'
 license: MIT
 metadata:
   title: "Cold Intro That Gets a Reply"
-  author: "Chase Whited (Pocket Agent)"
+  author: "Pocket Agent"
   website: "https://aipocketagent.com"
   source: "Pocket Agent Starter Pack"
   category: "email"

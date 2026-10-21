@@ -4,7 +4,7 @@ description: "Write subject lines that are concrete and specific — a real thin
 license: MIT
 metadata:
   title: "Subject Lines That Get Opened"
-  author: "Chase Whited (Pocket Agent)"
+  author: "Pocket Agent"
   website: "https://aipocketagent.com"
   source: "Pocket Agent Starter Pack"
   category: "email"

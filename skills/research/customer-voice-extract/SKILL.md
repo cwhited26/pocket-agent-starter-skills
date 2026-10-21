@@ -4,7 +4,7 @@ description: "Mine a transcript or review for the lines that sound like a real p
 license: MIT
 metadata:
   title: "Pull Real Customer Quotes"
-  author: "Chase Whited (Pocket Agent)"
+  author: "Pocket Agent"
   website: "https://aipocketagent.com"
   source: "Pocket Agent Starter Pack"
   category: "research"

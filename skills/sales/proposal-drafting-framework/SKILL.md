@@ -4,7 +4,7 @@ description: "Build a proposal from messy call notes by leading with their probl
 license: MIT
 metadata:
   title: "Turn Notes Into a Proposal"
-  author: "Chase Whited (Pocket Agent)"
+  author: "Pocket Agent"
   website: "https://aipocketagent.com"
   source: "Pocket Agent Starter Pack"
   category: "sales"

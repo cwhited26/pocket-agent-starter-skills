@@ -4,7 +4,7 @@ description: "Turn rough notes — a photo, a voice memo, a few scribbled lines 
 license: MIT
 metadata:
   title: "Draft a Quote From Messy Notes"
-  author: "Chase Whited (Pocket Agent)"
+  author: "Pocket Agent"
   website: "https://aipocketagent.com"
   source: "Pocket Agent Starter Pack"
   category: "operations"

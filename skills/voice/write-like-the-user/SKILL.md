@@ -4,7 +4,7 @@ description: "Pull the owner's voice from their past writing and mirror its cade
 license: MIT
 metadata:
   title: "Write Like the Owner"
-  author: "Chase Whited (Pocket Agent)"
+  author: "Pocket Agent"
   website: "https://aipocketagent.com"
   source: "Pocket Agent Starter Pack"
   category: "voice"

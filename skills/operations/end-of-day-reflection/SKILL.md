@@ -4,7 +4,7 @@ description: "Pull the day's real activity — what shipped, what moved, what's 
 license: MIT
 metadata:
   title: "End-of-Day Reflection"
-  author: "Chase Whited (Pocket Agent)"
+  author: "Pocket Agent"
   website: "https://aipocketagent.com"
   source: "Pocket Agent Starter Pack"
   category: "operations"
